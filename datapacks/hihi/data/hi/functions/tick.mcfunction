@@ -1,0 +1,1 @@
+execute as @a[tag=!1year] at @s run function hi:88

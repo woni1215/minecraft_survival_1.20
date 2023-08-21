@@ -1,0 +1,18 @@
+execute if score 購買單位 stock_calculate matches 10 run scoreboard players set 購買單位 stock_calculate 1
+
+
+
+execute if score 購買單位 stock_calculate matches 1 as @e[type=minecraft:armor_stand , limit=1 , tag=setworld] at @s run data merge block ~-3 ~7 ~-2 {back_text:{messages:['{"text":"======================"}','{"text":""}','{"text":""}','{"text":"======================"}']},is_waxed:1b,front_text:{messages:['{"text":"======================","clickEvent":{"action":"run_command","value":"trigger trigger set 87"}}','{"text":"切換單次購買張數","color":"gold"}','{"text":"當前：1","color":"gold"}','{"text":"======================"}']}}
+
+
+
+execute if score 購買單位 stock_calculate matches 1 as @e[type=minecraft:armor_stand , limit=1 , tag=setworld] at @s run data merge block ~-2 ~6 ~-2 {back_text:{messages:['{"text":"======================"}','{"text":""}','{"text":""}','{"text":"======================"}']},is_waxed:1b,front_text:{messages:['{"text":"======================","clickEvent":{"action":"run_command","value":"trigger trigger set 13"}}','{"text":"","color":"gold"}','{"text":"賣出一張生存股","color":"gold"}','{"text":"======================"}']}}
+execute if score 購買單位 stock_calculate matches 1 as @e[type=minecraft:armor_stand , limit=1 , tag=setworld] at @s run data merge block ~-2 ~7 ~-2 {back_text:{messages:['{"text":"======================"}','{"text":""}','{"text":""}','{"text":"======================"}']},is_waxed:1b,front_text:{messages:['{"text":"======================","clickEvent":{"action":"run_command","value":"trigger trigger set 12"}}','{"text":"","color":"gold"}','{"text":"買入一張生存股","color":"gold"}','{"text":"======================"}']}}
+
+execute if score 購買單位 stock_calculate matches 1 as @e[type=minecraft:armor_stand , limit=1 , tag=setworld] at @s run data merge block ~-1 ~6 ~-2  {back_text:{messages:['{"text":"======================"}','{"text":""}','{"text":""}','{"text":"======================"}']},is_waxed:1b,front_text:{messages:['{"text":"======================","clickEvent":{"action":"run_command","value":"trigger trigger set 15"}}','{"text":"","color":"gold"}','{"text":"賣出一張和平股","color":"gold"}','{"text":"======================"}']}}
+execute if score 購買單位 stock_calculate matches 1 as @e[type=minecraft:armor_stand , limit=1 , tag=setworld] at @s run data merge block ~-1 ~7 ~-2  {back_text:{messages:['{"text":"======================"}','{"text":""}','{"text":""}','{"text":"======================"}']},is_waxed:1b,front_text:{messages:['{"text":"======================","clickEvent":{"action":"run_command","value":"trigger trigger set 14"}}','{"text":"","color":"gold"}','{"text":"買入一張和平股","color":"gold"}','{"text":"======================"}']}}
+
+execute if score 購買單位 stock_calculate matches 1 as @e[type=minecraft:armor_stand , limit=1 , tag=setworld] at @s run data merge block ~ ~6 ~-2 {back_text:{messages:['{"text":"======================"}','{"text":""}','{"text":""}','{"text":"======================"}']},is_waxed:1b,front_text:{messages:['{"text":"======================","clickEvent":{"action":"run_command","value":"trigger trigger set 17"}}','{"text":"","color":"gold"}','{"text":"賣出一張咕雞股","color":"gold"}','{"text":"======================"}']}}
+execute if score 購買單位 stock_calculate matches 1 as @e[type=minecraft:armor_stand , limit=1 , tag=setworld] at @s run data merge block ~ ~7 ~-2 {back_text:{messages:['{"text":"======================"}','{"text":""}','{"text":""}','{"text":"======================"}']},is_waxed:1b,front_text:{messages:['{"text":"======================","clickEvent":{"action":"run_command","value":"trigger trigger set 16"}}','{"text":"","color":"gold"}','{"text":"買入一張咕雞股","color":"gold"}','{"text":"======================"}']}}
+
+
