@@ -1,0 +1,1 @@
+tellraw @s [{"text":"【股市】 ： ","color":"red"},{"text":"您該股的股份不到十張喔 ","color":"white"}]

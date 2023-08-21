@@ -1,0 +1,13 @@
+execute if entity @s[scores={phone=1}] run tellraw @s ["",{"text":"生存股：","color":"gold"},{"text":"\n"},{"text":"買十張","color":"green","clickEvent":{"action":"run_command","value":"/trigger trigger set 52"}},{"text":"   "},{"text":"買一張","color":"green","clickEvent":{"action":"run_command","value":"/trigger trigger set 33"}},{"text":"   "},{"text":"賣一張","color":"red","clickEvent":{"action":"run_command","value":"/trigger trigger set 34"}},{"text":"   "},{"text":"賣十張","color":"red","clickEvent":{"action":"run_command","value":"/trigger trigger set 53"}},{"text":"\n"},{"text":"和平股","color":"gold"},{"text":"\n"},{"text":"買十張","color":"green","clickEvent":{"action":"run_command","value":"/trigger trigger set 54"}},{"text":"   "},{"text":"買一張","color":"green","clickEvent":{"action":"run_command","value":"/trigger trigger set 35"}},{"text":"   ","color":"gold"},{"text":"賣一張","color":"red","clickEvent":{"action":"run_command","value":"/trigger trigger set 36"}},{"text":"   "},{"text":"賣十張","color":"red","clickEvent":{"action":"run_command","value":"/trigger trigger set 55"}},{"text":"\n"},{"text":"咕雞股","color":"gold"},{"text":"\n"},{"text":"買十張","color":"green","clickEvent":{"action":"run_command","value":"/trigger trigger set 56"}},{"text":"   "},{"text":"買一張","color":"green","clickEvent":{"action":"run_command","value":"/trigger trigger set 37"}},{"text":"   ","color":"gold"},{"text":"賣一張","color":"red","clickEvent":{"action":"run_command","value":"/trigger trigger set 38"}},{"text":"   ","color":"gold"},{"text":"賣十張","color":"red","clickEvent":{"action":"run_command","value":"/trigger trigger set 57"}}]
+execute unless entity @s[scores={phone=1}] run tellraw @s [{"text":"【客服】","color":"gold"},{"text":"請先繳費開通無線數據連線","color":"white"}]
+
+
+
+
+
+#tellraw @s ["",{"text":"生存股：","color":"gold"},{"text":"\n"},{"text":"買一張","color":"green","clickEvent":{"action":"run_command","value":"/trigger trigger set 33"}},{"text":"   "},{"text":"賣一張","color":"red","clickEvent":{"action":"run_command","value":"/trigger trigger set 34"}},{"text":"\n"},{"text":"和平股","color":"gold"},{"text":"\n"},{"text":"買一張","color":"green","clickEvent":{"action":"run_command","value":"/trigger trigger set 35"}},{"text":"   ","color":"gold"},{"text":"賣一張","color":"red","clickEvent":{"action":"run_command","value":"/trigger trigger set 36"}},{"text":"\n"},{"text":"咕雞股","color":"gold"},{"text":"\n"},{"text":"買一張","color":"green","clickEvent":{"action":"run_command","value":"/trigger trigger set 37"}},{"text":"   ","color":"gold"},{"text":"賣一張","color":"red","clickEvent":{"action":"run_command","value":"/trigger trigger set 38"}}]
+
+
+
+
+

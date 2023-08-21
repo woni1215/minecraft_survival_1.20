@@ -1,0 +1,15 @@
+scoreboard players set enchant_helmet forging 0
+scoreboard players set enchant_chestplate forging 0
+scoreboard players set enchant_leggings forging 0
+scoreboard players set enchant_boots forging 0
+scoreboard players set enchant_fishing_rod forging 0
+scoreboard players set enchant_sword forging 0
+scoreboard players set enchant_axe forging 0
+scoreboard players set enchant_pickaxe forging 0
+scoreboard players set enchant_shovel forging 0
+scoreboard players set enchant_bow forging 0
+scoreboard players set enchant_hoe forging 0
+scoreboard players set enchant_shield forging 0
+scoreboard players set enchant_crossbow forging 0
+scoreboard players set enchant_trident forging 0
+scoreboard players set enchant_elytra forging 0
