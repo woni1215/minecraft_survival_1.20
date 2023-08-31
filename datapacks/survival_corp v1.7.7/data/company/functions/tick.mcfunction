@@ -18,7 +18,7 @@ execute if score minute day matches 59 if score second day matches 59 if score t
 
 
 #隨機事件
-execute if score minute day matches 0 if score second day matches 0 if score tick day matches 1 run function company:emergencies/first
+#execute if score minute day matches 0 if score second day matches 0 if score tick day matches 1 run function company:emergencies/first
 
 #任務tick
 execute as @a[scores={task_time=..36000}] at @s run function company:task/tick
@@ -42,10 +42,10 @@ function company:equip/tick
 
 
 #怪物增強
-execute if score second day matches 1 run function company:mobs/tick
-execute if score second day matches 15 run function company:mobs/tick
-execute if score second day matches 30 run function company:mobs/tick
-execute if score second day matches 45 run function company:mobs/tick
+#execute if score second day matches 1 run function company:mobs/tick
+#execute if score second day matches 15 run function company:mobs/tick
+#execute if score second day matches 30 run function company:mobs/tick
+#execute if score second day matches 45 run function company:mobs/tick
 
 
 
