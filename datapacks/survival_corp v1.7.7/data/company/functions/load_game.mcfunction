@@ -153,19 +153,19 @@ scoreboard objectives add task_time dummy "任務時間"
 scoreboard objectives add task_success dummy "任務是否達成"
 scoreboard objectives add task_sign dummy "任務編號"
 scoreboard objectives add task_time_chack dummy "查看任務時間"
-scoreboard objectives add task_jump_500 minecraft.custom:minecraft.jump "任務_跳躍500次"
-scoreboard objectives add task_fishing_20 minecraft.custom:minecraft.fish_caught "任務_釣魚20次"
-scoreboard objectives add task_fishing_60 minecraft.custom:minecraft.fish_caught "任務_釣魚60次"
-scoreboard objectives add task_kill_creeper_10 minecraft.killed:minecraft.creeper "任務_殺死10苦力怕"
-scoreboard objectives add task_kill_ender_dragon_1 minecraft.killed:minecraft.ender_dragon "任務_殺死1龍"
+scoreboard objectives add task_jump_50 minecraft.custom:minecraft.jump "任務_跳躍50次"
+#scoreboard objectives add task_fishing_20 minecraft.custom:minecraft.fish_caught "任務_釣魚20次"
+#scoreboard objectives add task_fishing_60 minecraft.custom:minecraft.fish_caught "任務_釣魚60次"
+#scoreboard objectives add task_kill_creeper_10 minecraft.killed:minecraft.creeper "任務_殺死10苦力怕"
+#scoreboard objectives add task_kill_ender_dragon_1 minecraft.killed:minecraft.ender_dragon "任務_殺死1龍"
 scoreboard objectives add task_animals minecraft.custom:minecraft.animals_bred "任務_偵測動物繁殖"
 scoreboard objectives add task_doing dummy "任務統一計算"
 scoreboard objectives add task_cake minecraft.custom:eat_cake_slice "任務_吃蛋糕"
 
 
 
-#scoreboard objectives add task_stone_100 dummy "任務_挖100石頭"
-#scoreboard objectives add task_log_100 dummy "任務_挖100木頭"
+#scoreboard objectives add task_stone_100 dummy "任務_挖30石頭"
+#scoreboard objectives add task_log_100 dummy "任務_挖10木頭"
 #scoreboard objectives add task_tiger dummy "任務_老虎機五次"
 #scoreboard objectives add task_quartz_ore_64 dummy "任務_挖一組石英"
 #scoreboard objectives add task_log_300 dummy "任務_挖300木頭"
@@ -173,7 +173,7 @@ scoreboard objectives add task_cake minecraft.custom:eat_cake_slice "任務_吃�
 #scoreboard objectives add task_iron_ore_32 dummy "任務_挖32鐵礦"
 #scoreboard objectives add task_phantom_10 dummy "任務_殺死10隻夜寐"
 #scoreboard objectives add task_wither_skeleton_10 dummy "任務_殺死10凋零骷髏"
-#scoreboard objectives add task_animals_20 dummy "任務_讓20組動物繁殖"
+#scoreboard objectives add task_animals_2 dummy "任務_讓2組動物繁殖"
 
 
 
@@ -192,6 +192,6 @@ scoreboard objectives add phone dummy "手機"
 scoreboard objectives add diamond_block dummy "鑽石磚"
 
 #突發狀況
-scoreboard objectives add emergencies dummy "突發狀況"
+#scoreboard objectives add emergencies dummy "突發狀況"
 
 gamerule sendCommandFeedback false

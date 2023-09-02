@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5d3fbc4-2556-4771-8ef2-627ce69090e8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7.zip" beforeDir="false" afterPath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/base/death_remove.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/base/death_remove.mcfunction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/base/task_fail.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/base/task_fail.mcfunction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/boss/kill.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/boss/summon.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/boss/summon/0.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/boss/summon/1.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/boss/summon/2.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/boss/summon/3.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/boss/tick.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/boss/tp.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/changebox/1.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/changebox/2.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/changebox/cheak.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/changebox/run.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/emergencies/first.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/emergencies/run.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/emergencies/tick.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/equip/change.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/equip/tick.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/forging/over.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/forging/over.mcfunction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/forging/tick.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/forging/tick.mcfunction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/load_game.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/load_game.mcfunction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/creeper/1000_1200.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/creeper/1200_1500.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/creeper/1500_1700.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/creeper/1700_2000.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/creeper/2000_2500.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/creeper/2500_3000.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/creeper/3000_.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/creeper/400_500.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/creeper/500_600.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/creeper/600_700.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/creeper/700_800.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/creeper/800_900.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/creeper/900_1000.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/creeper/_400.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/phantom/1000_1200.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/phantom/1200_1500.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/phantom/1500_1700.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/phantom/1700_2000.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/phantom/2000_2500.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/phantom/2500_3000.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/phantom/3000_.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/phantom/400_500.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/phantom/500_600.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/phantom/600_700.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/phantom/700_800.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/phantom/800_900.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/phantom/900_1000.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/phantom/_400.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/skeleton/1000_1200.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/skeleton/1200_1500.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/skeleton/1500_1700.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/skeleton/1700_2000.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/skeleton/2000_2500.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/skeleton/2500_3000.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/skeleton/3000_.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/skeleton/400_500.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/skeleton/500_600.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/skeleton/600_700.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/skeleton/700_800.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/skeleton/800_900.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/skeleton/900_1000.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/skeleton/_400.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/spider/1000_1200.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/spider/1200_1500.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/spider/1500_1700.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/spider/1700_2000.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/spider/2000_2500.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/spider/2500_3000.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/spider/3000_.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/spider/400_500.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/spider/500_600.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/spider/600_700.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/spider/700_800.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/spider/800_900.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/spider/900_1000.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/spider/_400.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/test.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/tick.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/zombie/1000_1200.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/zombie/1200_1500.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/zombie/1500_1700.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/zombie/1700_2000.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/zombie/2000_2500.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/zombie/2500_3000.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/zombie/3000_.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/zombie/400_500.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/zombie/500_600.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/zombie/600_700.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/zombie/700_800.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/zombie/800_900.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/zombie/900_1000.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/mobs/zombie/_400.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/phone/buy_phone.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/phone/check_stock.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/phone/clear_death.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/phone/clear_task.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/phone/home.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/phone/look_stock.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/phone/pay.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/phone/random_task.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/phone/stickers.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/phone/stock/chicken_buy.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/phone/stock/chicken_sell.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/phone/stock/peace_buy.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/phone/stock/peace_sell.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/phone/stock/survive_buy.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/phone/stock/survive_sell.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/phone/stock_10/chicken_buy.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/phone/stock_10/chicken_sell.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/phone/stock_10/peace_buy.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/phone/stock_10/peace_sell.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/phone/stock_10/survive_buy.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/phone/stock_10/survive_sell.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/question/tick.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/question/tick.mcfunction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/shou/check.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/shou/info.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/shou/join.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/shou/lose.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/shou/over.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/shou/start.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/shou/start_ask.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/shou/summon/base/base_1.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/shou/summon/base/base_10.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/shou/summon/base/base_2.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/shou/summon/base/base_3.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/shou/summon/base/base_4.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/shou/summon/base/base_5.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/shou/summon/base/base_6.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/shou/summon/base/base_7.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/shou/summon/base/base_8.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/shou/summon/base/base_9.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/shou/summon/boss/boss_1.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/shou/summon/boss/boss_2.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/shou/summon/boss/boss_3.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/shou/summon/boss/boss_4.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/shou/summon/boss/boss_5.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/shou/summon/boss/boss_50.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/shou/summon/boss/boss_6.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/shou/summon/special/special_1.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/shou/summon/special/special_2.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/shou/summon/special/special_3.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/shou/summon/special/special_4.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/shou/summon/special/special_5.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/shou/summon/special/special_6.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/shou/tick.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/shou/win.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/10_1.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/1_10.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/buy/chicken.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/buy/peace.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/buy/survive.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/buy_10/chicken.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/buy_10/peace.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/buy_10/survive.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/check.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy/0.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy/1.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy/10.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy/11.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy/12.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy/13.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy/14.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy/15.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy/16.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy/17.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy/18.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy/19.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy/2.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy/20.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy/3.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy/4.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy/5.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy/6.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy/7.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy/8.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy/9.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy_10.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy_10/0.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy_10/1.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy_10/10.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy_10/11.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy_10/12.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy_10/13.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy_10/14.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy_10/15.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy_10/16.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy_10/17.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy_10/18.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy_10/19.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy_10/2.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy_10/20.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy_10/3.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy_10/4.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy_10/5.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy_10/6.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy_10/7.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy_10/8.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/buy_10/9.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/collapse.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/over.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell/0.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell/1.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell/10.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell/11.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell/12.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell/13.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell/14.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell/15.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell/16.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell/17.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell/18.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell/19.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell/2.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell/20.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell/3.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell/4.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell/5.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell/6.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell/7.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell/8.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell/9.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell_10.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell_10/0.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell_10/1.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell_10/10.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell_10/11.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell_10/12.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell_10/13.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell_10/14.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell_10/15.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell_10/16.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell_10/17.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell_10/18.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell_10/19.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell_10/2.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell_10/20.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell_10/3.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell_10/4.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell_10/5.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell_10/6.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell_10/7.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell_10/8.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/chicken/sell_10/9.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/info.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/opening.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/over_time.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy/0.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy/1.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy/10.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy/11.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy/12.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy/13.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy/14.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy/15.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy/16.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy/17.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy/18.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy/19.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy/2.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy/20.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy/3.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy/4.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy/5.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy/6.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy/7.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy/8.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy/9.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy_10.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy_10/0.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy_10/1.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy_10/10.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy_10/11.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy_10/12.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy_10/13.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy_10/14.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy_10/15.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy_10/16.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy_10/17.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy_10/18.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy_10/19.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy_10/2.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy_10/20.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy_10/3.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy_10/4.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy_10/5.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy_10/6.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy_10/7.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy_10/8.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/buy_10/9.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/collapse.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/over.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell/0.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell/1.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell/10.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell/11.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell/12.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell/13.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell/14.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell/15.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell/16.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell/17.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell/18.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell/19.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell/2.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell/20.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell/3.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell/4.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell/5.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell/6.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell/7.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell/8.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell/9.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell_10.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell_10/0.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell_10/1.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell_10/10.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell_10/11.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell_10/12.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell_10/13.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell_10/14.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell_10/15.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell_10/16.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell_10/17.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell_10/18.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell_10/19.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell_10/2.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell_10/20.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell_10/3.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell_10/4.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell_10/5.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell_10/6.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell_10/7.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell_10/8.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/peace/sell_10/9.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/reset.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy/0.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy/1.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy/10.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy/11.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy/12.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy/13.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy/14.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy/15.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy/16.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy/17.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy/18.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy/19.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy/2.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy/20.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy/3.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy/4.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy/5.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy/6.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy/7.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy/8.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy/9.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy_10.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy_10/0.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy_10/1.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy_10/10.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy_10/11.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy_10/12.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy_10/13.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy_10/14.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy_10/15.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy_10/16.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy_10/17.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy_10/18.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy_10/19.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy_10/2.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy_10/20.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy_10/3.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy_10/4.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy_10/5.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy_10/6.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy_10/7.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy_10/8.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/buy_10/9.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/collapse.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/over.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell/0.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell/1.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell/10.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell/11.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell/12.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell/13.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell/14.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell/15.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell/16.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell/17.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell/18.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell/19.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell/2.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell/20.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell/3.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell/4.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell/5.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell/6.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell/7.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell/8.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell/9.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell_10.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell_10/0.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell_10/1.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell_10/10.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell_10/11.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell_10/12.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell_10/13.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell_10/14.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell_10/15.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell_10/16.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell_10/17.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell_10/18.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell_10/19.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell_10/2.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell_10/20.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell_10/3.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell_10/4.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell_10/5.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell_10/6.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell_10/7.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell_10/8.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/survive/sell_10/9.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/stock/tick.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/task/fail.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/task/fail.mcfunction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/task/run.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/task/run.mcfunction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/task/show.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/task/show.mcfunction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/task/take_task.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/task/take_task.mcfunction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/task/tasks/0.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/task/tasks/0.mcfunction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/task/tasks/1.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/task/tasks/1.mcfunction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/task/tasks/10.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/task/tasks/11.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/task/tasks/12.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/task/tasks/13.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/task/tasks/14.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/task/tasks/15.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/task/tasks/2.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/task/tasks/2.mcfunction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/task/tasks/3.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/task/tasks/3.mcfunction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/task/tasks/4.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/task/tasks/4.mcfunction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/task/tasks/5.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/task/tasks/6.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/task/tasks/7.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/task/tasks/8.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/task/tasks/9.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/task/tick.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/task/tick.mcfunction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/tick.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/datapacks/survival_corp v1.7.7/data/company/functions/tick.mcfunction" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2UnRv8fAgxAFpRUiQiCA5bz8wb5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/AppData/Roaming/.minecraft/saves/_dang survival&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5d3fbc4-2556-4771-8ef2-627ce69090e8" name="Changes" comment="" />
+      <created>1693573585950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693573585950</updated>
+      <workItem from="1693573586981" duration="3988000" />
+      <workItem from="1693589386980" duration="282000" />
+      <workItem from="1693642379595" duration="945000" />
+      <workItem from="1693646473144" duration="673000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

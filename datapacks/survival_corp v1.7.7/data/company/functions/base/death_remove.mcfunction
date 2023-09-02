@@ -1,5 +1,5 @@
 scoreboard players set @s death 0
-clear @s minecraft:diamond 1
+clear @s minecraft:diamond 0
 
 tellraw @s[scores={death_all=2..},tag=death] {"text":"感謝您為國庫的付出","color":"gold"}
 

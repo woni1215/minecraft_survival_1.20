@@ -87,8 +87,8 @@ execute if score 5t day matches 5.. run scoreboard players reset 5t
 
 
 
-execute if score tick day matches 1 as @a[tag=time] unless entity @s[tag=task_fail] unless entity @s[scores={death=1..}] if score 顯示 task_time_chack matches 0..100 at @s run title @s actionbar [{"text":"當前時間：","color":"gold"},{"score":{"name":"hour","objective":"day"},"color":"white"},{"text":" 點 ","color":"white"},{"score":{"name":"minute","objective":"day"},"color":"white"},{"text":" 分 ","color":"white"},{"score":{"name":"second","objective":"day"},"color":"white"},{"text":" 秒","color":"white"}]
-execute if score tick day matches 1 as @a[tag=time] unless entity @s[tag=task_fail] unless entity @s[scores={death=1..}] if score 顯示 task_time_chack matches 100..200 at @s run function company:task/show
+#execute if score tick day matches 1 as @a[tag=time] unless entity @s[tag=task_fail] unless entity @s[scores={death=1..}] if score 顯示 task_time_chack matches 0..100 at @s run title @s actionbar [{"text":"當前時間：","color":"gold"},{"score":{"name":"hour","objective":"day"},"color":"white"},{"text":" 點 ","color":"white"},{"score":{"name":"minute","objective":"day"},"color":"white"},{"text":" 分 ","color":"white"},{"score":{"name":"second","objective":"day"},"color":"white"},{"text":" 秒","color":"white"}]
+#execute if score tick day matches 1 as @a[tag=time] unless entity @s[tag=task_fail] unless entity @s[scores={death=1..}] if score 顯示 task_time_chack matches 100..200 at @s run function company:task/show
 
 scoreboard players add 顯示 task_time_chack 1
 execute if score 顯示 task_time_chack matches 200.. run scoreboard players set 顯示 task_time_chack 0

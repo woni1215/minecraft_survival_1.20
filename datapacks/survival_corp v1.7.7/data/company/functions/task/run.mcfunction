@@ -4,22 +4,11 @@ execute if score @s task_time matches 1..36000 run tellraw @s {"text":"\n請等�
 
 
 
-execute if score @s[scores={task_sign=0}] task_time matches 1..36000 run tellraw @s [{"text":"\n本輪任務：","color":"gold"},{"text":" 挖取100顆木頭","color":"green"}]
-execute if score @s[scores={task_sign=1}] task_time matches 1..36000 run tellraw @s [{"text":"\n本輪任務：","color":"gold"},{"text":" 挖取100顆石頭","color":"green"}]
-execute if score @s[scores={task_sign=2}] task_time matches 1..36000 run tellraw @s [{"text":"\n本輪任務：","color":"gold"},{"text":" 跳躍500次","color":"green"}]
-execute if score @s[scores={task_sign=3}] task_time matches 1..36000 run tellraw @s [{"text":"\n本輪任務：","color":"gold"},{"text":" 成功釣魚20次","color":"green"}]
-execute if score @s[scores={task_sign=4}] task_time matches 1..36000 run tellraw @s [{"text":"\n本輪任務：","color":"gold"},{"text":" 成功釣魚60次","color":"green"}]
-execute if score @s[scores={task_sign=5}] task_time matches 1..36000 run tellraw @s [{"text":"\n本輪任務：","color":"gold"},{"text":" 殺死10苦力怕","color":"green"}]
-execute if score @s[scores={task_sign=6}] task_time matches 1..36000 run tellraw @s [{"text":"\n本輪任務：","color":"gold"},{"text":" 殺死1終界龍","color":"green"}]
-execute if score @s[scores={task_sign=7}] task_time matches 1..36000 run tellraw @s [{"text":"\n本輪任務：","color":"gold"},{"text":" 挖取300顆木頭","color":"green"}]
-execute if score @s[scores={task_sign=8}] task_time matches 1..36000 run tellraw @s [{"text":"\n本輪任務：","color":"gold"},{"text":" 挖取64顆煤礦","color":"green"}]
-execute if score @s[scores={task_sign=9}] task_time matches 1..36000 run tellraw @s [{"text":"\n本輪任務：","color":"gold"},{"text":" 挖取32顆鐵礦","color":"green"}]
-execute if score @s[scores={task_sign=10}] task_time matches 1..36000 run tellraw @s [{"text":"\n本輪任務：","color":"gold"},{"text":" 殺死5夜魅","color":"green"}]
-execute if score @s[scores={task_sign=11}] task_time matches 1..36000 run tellraw @s [{"text":"\n本輪任務：","color":"gold"},{"text":" 殺死10凋零骷髏","color":"green"}]
-execute if score @s[scores={task_sign=12}] task_time matches 1..36000 run tellraw @s [{"text":"\n本輪任務：","color":"gold"},{"text":" 玩五次老虎機","color":"green"}]
-execute if score @s[scores={task_sign=13}] task_time matches 1..36000 run tellraw @s [{"text":"\n本輪任務：","color":"gold"},{"text":" 讓20組動物繁殖","color":"green"}]
-execute if score @s[scores={task_sign=14}] task_time matches 1..36000 run tellraw @s [{"text":"\n本輪任務：","color":"gold"},{"text":" 挖一組石英","color":"green"}]
-execute if score @s[scores={task_sign=15}] task_time matches 1..36000 run tellraw @s [{"text":"\n本輪任務：","color":"gold"},{"text":" 吃20片蛋糕","color":"green"}]
+execute if score @s[scores={task_sign=0}] task_time matches 1..36000 run tellraw @s [{"text":"\n本輪任務：","color":"gold"},{"text":" 挖取30顆石頭","color":"green"}]
+execute if score @s[scores={task_sign=1}] task_time matches 1..36000 run tellraw @s [{"text":"\n本輪任務：","color":"gold"},{"text":" 跳躍50次","color":"green"}]
+execute if score @s[scores={task_sign=2}] task_time matches 1..36000 run tellraw @s [{"text":"\n本輪任務：","color":"gold"},{"text":" 挖取10顆木頭","color":"green"}]
+execute if score @s[scores={task_sign=3}] task_time matches 1..36000 run tellraw @s [{"text":"\n本輪任務：","color":"gold"},{"text":" 玩五次老虎機","color":"green"}]
+execute if score @s[scores={task_sign=4}] task_time matches 1..36000 run tellraw @s [{"text":"\n本輪任務：","color":"gold"},{"text":" 讓2組動物繁殖","color":"green"}]
 
 
 

@@ -3966,9 +3966,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+  "minecraft:recipes/redstone/repeater": {
     "criteria": {
-      "has_mossy_stone_bricks": "2023-09-02 00:04:29 +0800"
+      "has_redstone_torch": "2023-09-01 23:47:27 +0800"
     },
     "done": true
   },
@@ -3990,15 +3990,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2023-09-01 23:49:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2023-09-01 23:49:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2023-09-01 23:49:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2023-09-01 23:49:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2023-09-02 00:04:29 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_block": {
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
-      "has_redstone": "2023-09-01 23:49:37 +0800"
+      "has_mossy_stone_bricks": "2023-09-02 00:04:29 +0800"
     },
     "done": true
   },
@@ -4014,27 +4038,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/note_block": {
-    "criteria": {
-      "has_redstone": "2023-09-01 23:49:37 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2023-09-02 00:04:29 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2023-09-01 23:47:27 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/compass": {
-    "criteria": {
-      "has_redstone": "2023-09-01 23:49:37 +0800"
     },
     "done": true
   },
@@ -4044,9 +4050,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/piston": {
+  "minecraft:adventure/avoid_vibration": {
     "criteria": {
-      "has_redstone": "2023-09-01 23:49:37 +0800"
+      "avoid_vibration": "2023-09-02 18:39:53 +0800"
     },
     "done": true
   },

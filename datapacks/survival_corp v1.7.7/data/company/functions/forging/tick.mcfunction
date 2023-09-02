@@ -1,7 +1,7 @@
 
 #鍛造人 這段卡爛
 
-execute if entity @e[tag=box,limit=1] unless data block ~ ~ ~ Items[{Slot:7b}] run scoreboard players set @a[scores={armor_stand=1..},limit=1] forg 1
+#execute if entity @e[tag=box,limit=1] unless data block ~ ~ ~ Items[{Slot:7b}] run scoreboard players set @a[scores={armor_stand=1..},limit=1] forg 1
 
 
 
